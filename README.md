@@ -1,2 +1,3 @@
-# [Sample Repo] PR Practice
+#Introduction
+Creating Pull Request (RPs) is needed when using RCS in a multi-person projects
 A sample repo for practicing how to create Pull Requests
